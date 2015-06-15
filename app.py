@@ -1,5 +1,7 @@
 # ----Flask Hello World---
 
+# my new note on 6/15/2015 2:48pm
+
 # import the Flask class from the flask
 from flask import Flask
 
